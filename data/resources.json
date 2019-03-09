@@ -147,10 +147,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "DevFest Levante 2018 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": "https://www.youtube.com/channel/UCRq6ow7VWAlejOxo12LI-eg"
     }
   },
   "blog": {
@@ -197,7 +197,7 @@
   "subscribeBlock": {
     "callToAction": {
       "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "label": "Follow us on Facebook"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -245,7 +245,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Bari</a> GDG Pescara with support of 3 GDGs from all around Italy are proud organizers of DevFest Levante.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
