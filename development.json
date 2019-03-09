@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://devfest-levante-2019.firebaseapp.com/",
+  "analytics": "",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyCIrNi7Djj_BtMe3eBBE4Gg99xdoT_MUKc",
+    "authDomain": "devfest-levante-2019.firebaseapp.com",
+    "databaseURL": "https://devfest-levante-2019.firebaseio.com",
+    "projectId": "devfest-levante-2019",
+    "storageBucket": "devfest-levante-2019.appspot.com",
+    "messagingSenderId": "343750543270"
+  },
+  "googleMapApiKey": ""
+}
