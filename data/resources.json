@@ -116,11 +116,11 @@
       },
       "days": {
         "label": "Days",
-        "number": "8"
+        "number": "7"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "50"
+        "label": "Workshop",
+        "number": "21"
       },
       "tracks": {
         "label": "Tracks",
@@ -130,7 +130,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Tickets grant access to all conference sections, welcome appetizer and accomodation for one person in mobile homes suitable for 4 people.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
