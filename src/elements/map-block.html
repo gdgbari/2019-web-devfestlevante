@@ -43,7 +43,7 @@
           margin: 64px auto 72px;
         }
 
-        good-map {
+        good-mapp {
           display: block;
           height: 640px;
         }
@@ -58,19 +58,20 @@
         .address {
           font-size: 12px;
         }
+
+        .location-background {
+          height: 80%;
+          position: relative;
+          background-size: cover;
+          height: 640px;
+          background-image: url('/images/backgrounds/location.jpg');
+        }
       }
 
     </style>
 
     <template is="dom-if" if="[[viewport.isTabletPlus]]">
-      <good-map
-        id="map"
-        api-key="{$ googleMapApiKey $}"
-        latitude="{$ location.mapCenter.latitude $}"
-        longitude="{$ location.mapCenter.longitude $}"
-        zoom="{$ location.pointer.zoom $}"
-        map-options="[[options]]"
-      ></good-map>
+      <div class="location-background" style$="background-image: url('https://devfest-levante-2019.firebaseapp.com/images/backgrounds/home.jpg')"></div>
     </template>
 
     <div class="container" layout vertical end-justified fit$="[[viewport.isTabletPlus]]">
