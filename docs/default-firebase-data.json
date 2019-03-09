@@ -915,12 +915,12 @@
       "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/gerard_sans.jpg",
       "shortBio" : "Angular Google Developer Expert. International speaker and trainer.  Enjoy running AngularLabs London.",
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/gerardsans",
-        "name" : "Twitter"
+        "icon" : "facebook",
+        "link" : "http://facebook.com/gdgbari",
+        "name" : "Facebook"
       }, {
         "icon" : "website",
-        "link" : "https://medium.com/@gerard.sans",
+        "link" : "https://devfest.eu",
         "name" : "Website"
       } ],
       "order" : 8,

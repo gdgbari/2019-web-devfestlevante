@@ -25,7 +25,7 @@
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
-    "blog": "Blog"
+    "page": "Page"
   },
   "mySchedule": {
     "title": "My Schedule",
@@ -47,7 +47,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "https://developers.google.com/",
           "newTab": true
         }
       ]
@@ -99,14 +99,14 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "DevFest Levante brings together the world class experts in Android, Web and Cloud technologies in Puglia for 7 days of workshops and fun.",
+        "label": "Call for speakers",
+        "link": "https://sessionize.com/devfest-levante-2019/"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See how it was in 2018",
+        "youtubeId": "AKwtWCFAds4"
       }
     },
     "statisticsBlock": {
@@ -245,10 +245,10 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Bari</a> GDG Pescara with support of 3 GDGs from all around Italy are proud organizers of DevFest Levante.",
+        "description": "GDG Bari and GDG Pescara with support of 3 GDGs from all around Italy are proud organizers of DevFest Levante.",
         "callToAction": {
-          "label": "Open team page",
-          "link": "/team"
+          "label": "Follow us",
+          "link": "https://www.facebook.com/GDGBari/"
         }
       },
       {
