@@ -94,20 +94,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
+    "name": "Baia di Gallipoli",
     "city": "Gallipoli",
-    "short": "Gallipoli, Puglia, Italy",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "short": "Litoranea per S.M. di Leuca, Gallipoli, Puglia, Italy",
+    "address": "Litoranea per S.M. di Leuca, S.P. 215 km 0,100",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 40.002216,
+      "longitude": 18.023298,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 40.002216,
+      "longitude": 18.023298
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "The Baia di Gallipoli Camping Resort extends across an area with a rural vocation, called Contrada L'ariò, after the name of the adjacent beautiful manor farm."
   },
   "mediaQueries": {
     "xs": {
