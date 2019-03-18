@@ -60,7 +60,7 @@
       <h1 class="container-title">{$ partnersBlock.title $}</h1>
 
       <template is="dom-repeat" items="[[partners]]" as="block">
-          <h4 class="block-title">[[block.title]]</h4>
+          <h2 class="block-title">[[block.title]]</h2>
           <div class="logos-wrapper">
             <template is="dom-repeat" items="[[block.items]]" as="logo">
               <a
@@ -133,15 +133,7 @@
       }
 
       _addPotentialPartner() {
-        dialogsActions.openDialog(DIALOGS.SUBSCRIBE, {
-          title: '{$ partnersBlock.form.title $}',
-          submitLabel: '{$ partnersBlock.form.submitLabel $}',
-          firstFieldLabel: '{$ partnersBlock.form.fullName $}',
-          secondFieldLabel: '{$ partnersBlock.form.companyName $}',
-          submit: (data) => {
-            this.dispatch(partnersActions.addPartner(data));
-          },
-        });
+        window.open("mailto:info@devfestlevante.eu","_self")
       }
 
       _partnerAddingChanged(newPartnerAdding, oldPartnerAdding) {
