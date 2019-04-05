@@ -134,23 +134,19 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDG-Bari/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://www.facebook.com/gdgbari/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/gdgbari"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCRq6ow7VWAlejOxo12LI-eg/"
       }
     ],
     "share": [
@@ -168,7 +164,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "gdgbari42@gmail.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"

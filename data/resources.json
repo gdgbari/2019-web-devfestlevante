@@ -6,15 +6,15 @@
   "dates": "August 24-31, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
-  "followOur": "Follow our",
+  "followOur": "",
   "followUs": "Follow us",
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
+  "signIn": "",
+  "signOut": "",
+  "viewHighlights": "View 2019 Trailer",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
@@ -105,8 +105,8 @@
       },
       "howItWas": {
         "description": "Our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2018",
-        "youtubeId": "AKwtWCFAds4"
+        "label": "Watch DevFest 2019 Trailer",
+        "youtubeId": "O3HpZWWXFgE"
       }
     },
     "statisticsBlock": {
