@@ -25,6 +25,11 @@
       "label": "Home"
     },
     {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
+    },
+    {
       "route": "faq",
       "permalink": "/faq/",
       "label": "FAQ"
