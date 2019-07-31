@@ -82,21 +82,14 @@
       font-color="{$ heroSettings.schedule.fontColor $}"
       active="[[active]]"
     >
-      <style>
-        img {
-          width: 100%;
-        }
-      </style>
       <div class="hero-title highlight-font">{$ heroSettings.schedule.title $}</div>
-<!--      <p class="hero-description">{$ heroSettings.schedule.description $}</p>-->
-      <p class="hero-description">Full schedule will be available soon!</p>
-      <img src="/images/schedule.png" alt="schedule">
-      <!--      <sticky-element slot="bottom" active="[[active]]">
-              <header-bottom-toolbar></header-bottom-toolbar>
-            </sticky-element>-->
+      <p class="hero-description">{$ heroSettings.schedule.description $}</p>
+      <sticky-element slot="bottom" active="[[active]]">
+        <header-bottom-toolbar></header-bottom-toolbar>
+      </sticky-element>
     </hero-block>
 
-   <!-- <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
+    <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
 
     <filter-menu
       filters="[[_filters]]"
@@ -146,7 +139,7 @@
           query-params="[[queryParams]]"
         ></my-schedule>
       </iron-pages>
-    </div>-->
+    </div>
 
     <footer-block></footer-block>
   </template>
@@ -278,4 +271,3 @@
 
   </script>
 </dom-module>
-
