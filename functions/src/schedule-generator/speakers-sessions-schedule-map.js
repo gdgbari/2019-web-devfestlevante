@@ -121,7 +121,8 @@ function getTimeDifference(date, startTime, endTime) {
     const timezone = new Date().toString().match(/([A-Z]+[+-][0-9]+.*)/)[1];
     const timeStart = new Date(date + ' ' + startTime + ' ' + timezone).getTime();
     const timeEnd = new Date(date + ' ' + endTime + ' ' + timezone).getTime();
-    return timeEnd - timeStart;
+    const time = timeEnd - timeStart;
+    return time < 0 ? (time + 24 * 60 * 60 * 1000) : time;
 }
 
 function getEndTime(date, startTime, endTime, totalNumber, number) {
