@@ -250,7 +250,8 @@ class Speaker {
         this.shortBio = shortBio ? shortBio : "";
         this.title = title ? title : "";
         this.photoUrl = photoUrl ? photoUrl : "";
-        this.company ? this.company = company : null;
+        //this.company ? this.company = company : null;
+        this.company = title; // Use this as text to render as company
         this.companyLogo ? this.companyLogo = companyLogo : null;
         this.companyLogoUrl ? this.companyLogoUrl = companyLogoUrl : null;
         this.country ? this.country = country : null;
